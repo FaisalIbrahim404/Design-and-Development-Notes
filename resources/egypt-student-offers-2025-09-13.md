@@ -1,7 +1,5 @@
 Updated as of: Saturday, September 13, 2025 UTC
 
-Note: You said you don’t have a university-issued email and using a credit card will be hard. I prioritize offers that are free to claim without a card, and I clearly mark any that need a card. Availability and “student-only” offers that can be claimed without a .edu.eg email are highlighted. Where feasible, I point to alternative verification (ISIC, document upload, GitHub Student Pack manual review).
-
 #### Top 10 Quick Wins (high impact, easy to claim)
 1) GitHub Student Developer Pack — one-stop free bundle (JetBrains IDEs, Namecheap domain, Canva Pro trials, cloud credits and more). Global eligibility; can verify with documents if no student email .  
 2) JetBrains Student License — full IDE suite (IntelliJ, PyCharm, CLion) free while enrolled; verify via student email or documents; works globally.  
